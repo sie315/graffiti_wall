@@ -15,21 +15,20 @@ To run Digital Graffiti Wall, you need to have Python and Pygame installed on yo
 
 1. **Install Python**: Download and install the latest version of Python from [python.org](https://www.python.org/downloads/).
 2. **Install Pygame**: After installing Python, run the following command in your terminal or command prompt to install Pygame:
-   ```bash
-   pip install pygame
-Running the Program
-To run the program, use the following command in the terminal or command prompt in the directory where your grafwall.py file is located:
 
-bash
-Copy code
-python3 grafwall.py
-Controls
-Mouse Click and Drag: Draw on the wall.
-R/G: Change the brush color to Red/Green.
-1/2: Change the brush size.
-B: Toggle the gradient effect on and off.
-Contributing
+
+## Running the Program
+To run the program, use the following command in the terminal or command prompt in the directory where your `grafwall.py` file is located:
+
+
+## Controls
+- **Mouse Click and Drag**: Draw on the wall.
+- **R/G**: Change the brush color to Red/Green.
+- **1/2**: Change the brush size.
+- **B**: Toggle the gradient effect on and off.
+
+## Contributing
 Feel free to fork this project, make changes, and create pull requests if you have ideas to improve the application.
 
-License
-This project is open-source and available under the MIT License.
+## License
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
